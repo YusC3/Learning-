@@ -1,0 +1,90 @@
+10/3/2021
+# INTRODUCTION TO HTML AND CSS
+-------------------------------------------------------------
+- HTML (5): Allows for structure and content of webpages
+- CSS (3): Ability to make website more appealing through styling
+- JS (Javascript): Allows for dynamic change and interaction to webpage content.
+
+## HTML
+### "Hypertext Markup Language"
+- Allows for basic stucture of webpage. Enhanced by CSS and JS
+
+## CSS
+###
+- A style sheet language (static) that improves presentation of HTML elements
+- Used to make the "look and feel of your" website change
+- Also alters layout and formatting of webpage
+
+## Javascript (JS)
+### 
+- Adds interactivity to a website
+- Think buttons, inputting of data, menu button, nav bar, ect...
+- Allows for users to "interact" with your webpage and give it more functionality
+
+# KNOWLEDGE CHECK
+------------------------------------------------------------
+
+## What does HTML and CSS stand for?
+
+	- HTML: Hypertext Markup Language
+	- CSS: Cascading Style Sheet
+
+## Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+
+	- HTML allows you to add the content and structure, 	while CSS, the styling
+
+## Between HTML and CSS, which would you use for changing the font and background color of a button?
+
+	- CSS is used for the styling of the HTML content. This 	includes font and color as well as background
+
+# ELEMENTS AND TAGS
+-------------------------------------------------------------
+
+- Element: content containers for a webpage defined by a "tag"
+- Tag: special keyword that defines an element i.e "<p></p>. For each element, there is an opening and closing tag
+- Empty Elements: HTML elements that don't have a closing tag
+
+- Browsers use this info to format and display the content
+- Using the wrong tag will lower ranking on search engines and be less accessible for those who use assistive technologies
+- Tags are predefined by the HTML language
+
+# KNOWLEDGE CHECK
+------------------------------------------------------------
+
+## What is an HTML tag?
+
+	- A keyword that is used to define an HTML element
+
+## What are the three parts of an HTML element?
+
+	- A opening tag, content, and closing tag. In some 	cases there are empty HTML elements
+
+# HTML BOILERPLATE
+------------------------------------------------------------
+
+- Practice boilerplate to get a feel for how to create it from scratch. VSCode does offer boiler plate shortcut ("!")
+- Every webpage bust have an "index.html" which is the starting place for the website
+
+- DOCTYPE: The start of every HTML file. Specifies HTML version
+- html Element: Added after DOCTYPE (website content container)
+- head Element: Contains meta Element (with charset) and title Element (meta data related tags) no info displayed to user
+- body Element: Container for main website content
+
+# KNOWLEDGE CHECK
+------------------------------------------------------------
+
+## What is the purpose of the doctype declaration?
+
+	- To state HTML version for document
+
+## What is the HTML element?
+
+	- Container for entire webpage content
+
+## What is the purpose of the head element?
+
+	- Container for meta data for webpage like charset and 		title 
+
+## What is the purpose of the body element?
+
+	- Container for main HTML (visible) content of webpage
